@@ -1,0 +1,15 @@
+2026-01-31 12:24:44,282 | INFO | qa | === Browser session START ===
+2026-01-31 12:24:57,106 | INFO | qa | === Browser session END ===
+2026-01-31 12:24:57,108 | INFO | qa | === Browser session START ===
+2026-01-31 12:25:08,035 | INFO | qa | === Browser session END ===
+2026-01-31 12:25:08,037 | INFO | qa | === Browser session START ===
+2026-01-31 12:25:20,784 | INFO | qa | === Browser session END ===
+2026-01-31 12:28:35,188 | INFO | qa | === Browser session START ===
+2026-01-31 12:28:50,478 | INFO | qa | DATASET TC_01 RESULT: PASSED | expected=success actual=success
+2026-01-31 12:28:52,810 | INFO | qa | === Browser session END ===
+2026-01-31 12:28:52,953 | INFO | qa | === Browser session START ===
+2026-01-31 12:29:06,277 | INFO | qa | DATASET TC_02 RESULT: PASSED | expected=invalid_username actual=invalid_username
+2026-01-31 12:29:08,471 | INFO | qa | === Browser session END ===
+2026-01-31 12:29:08,472 | INFO | qa | === Browser session START ===
+2026-01-31 12:29:21,854 | INFO | qa | DATASET TC_03 RESULT: PASSED | expected=invalid_password actual=invalid_password
+2026-01-31 12:29:24,009 | INFO | qa | === Browser session END ===
